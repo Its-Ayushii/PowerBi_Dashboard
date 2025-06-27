@@ -14,7 +14,7 @@ A collection of interactive and insightful Power BI dashboards designed to visua
 1. 📊 L&B Company Dashboard
 This dashboard was developed as part of my second-year training at L&B, an organization with over 10 years of experience in training 75,000+ students from 350+ premier institutions including IITs and NITs, and collaborating with 200+ associate hiring partners.
 
-Questions:
+❓ Questions:
 
 1. What is the total number of registrations?
 2. What is the gender distribution of the participants?
