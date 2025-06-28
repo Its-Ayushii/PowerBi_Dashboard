@@ -3,18 +3,18 @@
 📊 Power BI Dashboards
 A collection of interactive and insightful Power BI dashboards designed to visualize and analyze data effectively. These dashboards cover various domains including sales, finance, marketing, HR and showcase data storytelling, DAX measures, and report design best practices.
 
-#🔍 Features:
+## 🔍 Features:
 1. Clean and intuitive visual layouts
 2. Custom DAX calculations
 3. Dynamic filters and slicers
 4. Real-world datasets and use cases
 
-#📁 Dashboards Included:
+## 📁 Dashboards Included:
 
 1. 📊 L&B Company Dashboard
 This dashboard was developed as part of my second-year training at L&B, an organization with over 10 years of experience in training 75,000+ students from 350+ premier institutions including IITs and NITs, and collaborating with 200+ associate hiring partners.
 
-#❓ Questions:
+## ❓ Questions:
 
 1. What is the total number of registrations?
 2. What is the gender distribution of the participants?
